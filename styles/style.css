@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&family=Maven+Pro&display=swap');
+
+body{
+    background-image:url('https://static.vecteezy.com/system/resources/previews/000/358/468/original/vector-white-background.jpg');
+}
+
+header{
+    background-color: #0000FF;
+    padding: 12px;
+}
+
+footer{
+    background-color: white;
+}
+
+h1{
+    color:white;
+    text-align:center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h2{
+    color:black;
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: white;
+}
+
+h4{
+    color:black;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+input[type=submit]{
+    background-color:#0000FF;
+    color: white;
+    border-radius: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+p{
+    color:black;
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: white;
+}
